@@ -1,0 +1,17 @@
+<html>
+       <head>
+             <title>Tepoztl&aacute;n</title>
+       </head>
+       <body>
+             <h2>Tepoztl&aacute;n</h2>
+             <hr>
+             <p><img src=tepoztl&aacute;n.jpg alt="Tepoztl&aacute;n" aling=left vspace=20 hspace=20>
+                 Pueblo Mágico del Estado de Morelos, reconocido por la pirámide de Tepozteco
+                 construida en el año de 1502 en una situaci&uacute;n geogr&aacute;fica muy importante. Tambi&eacute;n 
+                 la flora y la fauna juegan un papel muy importante, las pinturas rupestres tambi&eacute;n 
+                 se hacen notar en algunos cerros. Otro atractivo es el exconvento de Tepoztl&aacute;n
+                 construido por orden de dominicos, en el a&ntilde;o de 1570.
+             </p>
+             <hr>
+       </body>
+</html>
